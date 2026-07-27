@@ -1,4 +1,2 @@
-# kalman-data-incest-demo
-Repo to demonstrate data incest due to naive social influence using Kalman filtering.
-
-Only in one-dimensions as of 07/15/2024, but I will hopefully expland it to the multivariate form sometime later this Summer.
+# correlated-data-fusion-demo
+Demonstrates data incest — the double-counting of correlated information in distributed estimation — using Kalman filtering over a naive social influence network.
